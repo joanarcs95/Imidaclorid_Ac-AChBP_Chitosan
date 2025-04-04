@@ -38,6 +38,8 @@ Files in the "Ac-AChBP_IMI" directory for each system:
 "npt.gro"       - system coordinates (complex + solvent + ions) file after minimization and equilibrations
 
 
+<br>
+
 
 Files in the "Chitosan_IMI" directory for each system:
 
