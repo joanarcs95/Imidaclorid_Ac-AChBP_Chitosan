@@ -1,4 +1,4 @@
-# "What Can Nature Tell About Relevant Amino Acids to Be Incorporated in Pesticide-Adsorbing Materials? A Multi-Stage Computational Approach"
+# "Towards nature-inspired materials for adsorbing pesticides: a multi‐stage computational approach"
 
 J. R. C. Santos, P. E. Abreu, and J. M. C. Marques
 
